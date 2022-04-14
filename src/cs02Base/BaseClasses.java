@@ -26,6 +26,7 @@ public class BaseClasses {
 	public void closeBrowser() {
 		driver.close();
 		Reporter.log("browsee successfull close");
+		//sysoojhh
 	}
 
 
